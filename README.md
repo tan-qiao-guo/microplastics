@@ -14,17 +14,10 @@ Metal bioaccumulation.OMMLx – OpenModel project file for bioaccumulation simul
 
 TK_TD.OMMLx – OpenModel project file for toxicokinetics–toxicodynamics modeling
 
-OpenModel 2.4.2 Installation.msi – Windows installer for OpenModel v2.4.2
-
-OpenModel 2.4.2 Installation.zip – Compressed version of the installer (alternative download)
-
-OpenModelCache/ – Model cache and supporting files
-
 
 ▶️ Usage
 Install OpenModel
-
-Download and run OpenModel 2.4.2 Installation.msi (or unzip OpenModel 2.4.2 Installation.zip and run the installer).
+Download the latest `OpenModel-Setup.exe` package from the [Releases](https://github.com/tan-qiao-guo/openmodel/releases) page. Install** on Windows 10/11 (tested on 64-bit).
 
 Open a Project File
 
