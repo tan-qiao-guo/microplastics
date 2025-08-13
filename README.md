@@ -1,20 +1,3 @@
-
-▶️ Usage   
-Install OpenModel  
-Download the latest `OpenModel-Setup.exe` package from the [Releases](https://github.com/tan-qiao-guo/openmodel/releases) page. Install** on Windows 10/11 (tested on 64-bit).  
-
-Open a Project File  
-
-Launch OpenModel and load Metal bioaccumulation.OMMLx or TK_TD.OMMLx.  
-
-Run the Simulation  
-
-Use the built-in simulation controls to reproduce model fitting as described in the manuscript.  
-
-📜 License  
-The code and data are shared under the CC BY 4.0 License – you are free to use, share, and adapt with appropriate attribution to the authors.  
-
-
 # Code and Data for *Assessing Marine Microplastics’ Role in Metal Exposure amid Abundant Natural Particles*
 
 This repository contains the **OpenModel** project files and datasets used in the manuscript:  
