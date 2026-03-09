@@ -2,7 +2,7 @@
 
 This repository contains the **OpenModel** project files and datasets used in the manuscript:  
 
-> **Jing Qian¹², Eric P. Achterberg², Qiao-Guo Tan¹\***  
+> **Jing Qian¹², Jia-Yin Xu¹, Eric P. Achterberg², Qiao-Guo Tan¹\***  
 > ¹ Fujian Provincial Key Laboratory for Coastal Ecology and Environmental Studies, State Key Laboratory of Marine Environmental Science, College of the Environment and Ecology, Xiamen University, Xiamen, Fujian 361102, China  
 > ² GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany  
 > \*Corresponding author: [tanqg@xmu.edu.cn](mailto:tanqg@xmu.edu.cn)  
